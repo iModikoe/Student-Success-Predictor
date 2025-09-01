@@ -1,0 +1,222 @@
+[
+  {
+    "name": "school",
+    "type": "categorical",
+    "categories": [
+      "GP",
+      "MS"
+    ]
+  },
+  {
+    "name": "sex",
+    "type": "categorical",
+    "categories": [
+      "F",
+      "M"
+    ]
+  },
+  {
+    "name": "age",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "address",
+    "type": "categorical",
+    "categories": [
+      "R",
+      "U"
+    ]
+  },
+  {
+    "name": "famsize",
+    "type": "categorical",
+    "categories": [
+      "GT3",
+      "LE3"
+    ]
+  },
+  {
+    "name": "Pstatus",
+    "type": "categorical",
+    "categories": [
+      "A",
+      "T"
+    ]
+  },
+  {
+    "name": "Medu",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "Fedu",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "Mjob",
+    "type": "categorical",
+    "categories": [
+      "at_home",
+      "health",
+      "other",
+      "services",
+      "teacher"
+    ]
+  },
+  {
+    "name": "Fjob",
+    "type": "categorical",
+    "categories": [
+      "at_home",
+      "health",
+      "other",
+      "services",
+      "teacher"
+    ]
+  },
+  {
+    "name": "reason",
+    "type": "categorical",
+    "categories": [
+      "course",
+      "home",
+      "other",
+      "reputation"
+    ]
+  },
+  {
+    "name": "guardian",
+    "type": "categorical",
+    "categories": [
+      "father",
+      "mother",
+      "other"
+    ]
+  },
+  {
+    "name": "traveltime",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "studytime",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "failures",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "schoolsup",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "famsup",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "paid",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "activities",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "nursery",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "higher",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "internet",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "romantic",
+    "type": "categorical",
+    "categories": [
+      "no",
+      "yes"
+    ]
+  },
+  {
+    "name": "famrel",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "freetime",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "goout",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "Dalc",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "Walc",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "health",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "absences",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "G1",
+    "type": "numeric",
+    "categories": null
+  },
+  {
+    "name": "G2",
+    "type": "numeric",
+    "categories": null
+  }
+]
